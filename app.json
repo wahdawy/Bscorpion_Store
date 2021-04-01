@@ -1,0 +1,18 @@
+{
+	"name": "Black_Scorpion Store",
+	"identifier": "com.Black_Scorpion.Store",
+	"sourceURL": "https://archive.org/details/app_20210401_1/app.json",
+	"apps": [{
+		"name": "Instagram",
+		"bundleIdentifier": "com.burbn.instagram",
+		"developerName": "Michael",
+		"version": "181.0 (T3.4.0)",
+		"versionDate": "2021-03-31",
+		"versionDescription": "Instagram Rhino is a tweak for the Instagram app that adds amazing new features to the app, such as: * ",
+		"downloadURL": "https://archive.org/download/instagram-rhino-181.0/InstagramRhino_181.0.ipa",
+		"iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/a4/40/6da440e3-319e-ad88-36d7-fe6340a0aea0/source/512x512bb.jpg",
+		"tintColor": "018084",
+		"size": 68000000
+
+	}]
+}
